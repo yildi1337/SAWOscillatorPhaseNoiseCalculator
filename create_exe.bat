@@ -1,0 +1,1 @@
+pyinstaller SAW_Oscillator_Phase_Noise_Calculator.py --noconfirm --clean --onefile --windowed --add-data block_diagram.png;.
