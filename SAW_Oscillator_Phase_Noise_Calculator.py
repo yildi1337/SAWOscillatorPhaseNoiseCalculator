@@ -490,7 +490,7 @@ def plotOscillatorFrequencyNoise(firstCall):
         ax1.loglog(f, Sf_CL_power_splitter, label='Power Splitter')
 
         # total frequency noise
-        ax1.loglog(f, Sf_CL, 'k--', label='Total Phase Noise')
+        ax1.loglog(f, Sf_CL, 'k--', label='Total Frequency Noise')
 
         # further plot settings
         plt.xlabel('Frequency [Hz]')
