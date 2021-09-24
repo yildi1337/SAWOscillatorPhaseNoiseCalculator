@@ -15,6 +15,6 @@ Tool for calculating the phase/frequency noise in a closed-loop surface acoustic
 # Further information
 The tool is mainly based on the [PySimpleGUI](https://pypi.org/project/PySimpleGUI/) and the [matplotlib](https://matplotlib.org/) libraries. For the underlying math, please refer to the following publications:
 
-* Phillip Durdaut et al., Equivalence of Open-Loop and Closed-Loop Operation of SAW Resonators and Delay Lines, Sensors 19, no. 1: 185, 2019. https://doi.org/10.3390/s19010185
-* Phillip Durdaut et al., Noise Analysis and Comparison of Phase- and Frequency-Detecting Readout Systems: Application to SAW Delay Line Magnetic Field Sensor, IEEE Sensors Journal, 19, 18, pp. 8000-8008, 2019. https://doi.org/10.1109/JSEN.2019.2914965
-* Enrico Rubiola, Phase noise and frequency stability in oscillators, Cambridge University Press, 2009. https://doi.org/10.1017/CBO9780511812798
+* P. Durdaut et al., Equivalence of Open-Loop and Closed-Loop Operation of SAW Resonators and Delay Lines, Sensors 19, 1, 185, 2019. https://doi.org/10.3390/s19010185
+* P. Durdaut et al., Noise Analysis and Comparison of Phase- and Frequency-Detecting Readout Systems: Application to SAW Delay Line Magnetic Field Sensor, IEEE Sensors Journal, 19, 18, 8000-8008, 2019. https://doi.org/10.1109/JSEN.2019.2914965
+* E. Rubiola, Phase noise and frequency stability in oscillators, Cambridge University Press, 2009. https://doi.org/10.1017/CBO9780511812798
