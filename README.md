@@ -1,4 +1,4 @@
-# SAWOscillatorPhaseNoiseCalculator
+# SAW Oscillator Phase Noise Calculator
 Tool for calculating the phase/frequency noise in a closed-loop surface acoustic wave (SAW) oscillator where the SAW device can be a (two-port) delay line or a resonator
 
 # Screenshots
